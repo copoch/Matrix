@@ -1,5 +1,5 @@
 {
-  "name": "@copoch/matrix",
+  "name": "matrix",
   "version": "0.0.0",
   "description": "页面搭建平台",
   "main": "index.js",
