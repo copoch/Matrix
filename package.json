@@ -1,0 +1,19 @@
+{
+  "name": "@copoch/matrix",
+  "version": "0.0.0",
+  "description": "页面搭建平台",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copoch/Matrix.git"
+  },
+  "author": "yulin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/copoch/Matrix/issues"
+  },
+  "homepage": "https://github.com/copoch/Matrix#readme"
+}
